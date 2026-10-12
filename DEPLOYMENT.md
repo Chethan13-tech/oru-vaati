@@ -1,6 +1,9 @@
 # 🚀 Publishing & Deployment Guide for Oru Vaati
 
-Welcome! Your **Oru Vaati — Conscious Food Delivery** application is fully production-ready with zero faults, clean TypeScript types, full client persistence (`localStorage`), exact matching South Indian dish photography, authentic Tamil Nadu pricing, real-time simulated fast delivery with Web Audio doorbell chime, and order acknowledgement.
+### 🟢 Live Production Deployment:
+- **Live Website**: [https://v0-new-project-h5bwoqa7i3h.vercel.app](https://v0-new-project-h5bwoqa7i3h.vercel.app)
+- **Vercel Dashboard / Inspect**: [https://vercel.com/chethans-projects-c04908d9/v0-new-project-h5bw](https://vercel.com/chethans-projects-c04908d9/v0-new-project-h5bw)
+- **Deployment Status**: ● Ready & Live on Vercel Global Edge Network with Free SSL/TLS
 
 ---
 
